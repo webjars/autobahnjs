@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>autobahnjs</artifactId>
-    <version>0.8.2</version>
+    <version>0.8.3-SNAPSHOT</version>
     <name>AutobahnJS</name>
     <url>http://webjars.org</url>
     <description>WebJar for AutobahnJS. The 0.8.2 version implement the WAMP v1
@@ -43,7 +43,7 @@
         <url>http://github.com/webjars/autobahnjs</url>
         <connection>scm:git:https://github.com/webjars/autobahnjs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/autobahnjs.git</developerConnection>
-        <tag>autobahnjs-0.8.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <properties>
